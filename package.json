@@ -22,12 +22,7 @@
         "url": "git@github.com:ConnectedHomes/redux-persist-transform-filter-immutable.git"
     },
     "bugs": {
-        "url": "https://github.com/ConnectedHomes/redux-persist-transform-filter-immutable/issues",
-        "email": "opensource@actra.de"
-    },
-    "publishConfig": {
-        "registry": "https://registry.npmjs.com/",
-        "access": "public"
+        "url": "https://github.com/ConnectedHomes/redux-persist-transform-filter-immutable/issues"
     },
     "dependencies": {
         "immutable": "^4.0.0-rc.9",
